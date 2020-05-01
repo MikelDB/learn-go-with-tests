@@ -7,6 +7,6 @@
         "ms-vscode.go"
     ],
     "mounts": [
-        "source=/home/mikeldb/.ssh,target=/home/.ssh,type=bind,consistency=cached"
+        "source=/home/mikeldb/.ssh,target=/workspaces/learn-go-with-tests/.ssh,type=bind,consistency=cached"
     ],
 }
