@@ -5,5 +5,8 @@
     ],
     "extensions": [
         "ms-vscode.go"
-    ]
+    ],
+    "mounts": [
+        "source=/home/mikeldb/.ssh,target=/home/.ssh,type=bind,consistency=cached"
+    ],
 }
