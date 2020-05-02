@@ -21,6 +21,7 @@ RUN go get -u -v  github.com/mdempsky/gocode \
  github.com/stamblerre/gocode \
  github.com/rogpeppe/godef \
  github.com/sqs/goreturns \
- golang.org/x/lint/golint 
+ golang.org/x/lint/golint \
+ golang.org/x/tools/cmd/godoc
 
 EXPOSE 8000
